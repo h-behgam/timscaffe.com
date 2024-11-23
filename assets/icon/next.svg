@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.234" height="134.234"
+    viewBox="0 0 134.234 134.234">
+    <defs>
+        <filter id="Path_9097" x="0" y="0" width="134.234" height="134.234" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="5" result="blur" />
+            <feFlood />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+        <filter id="Path_9098" x="39.209" y="27.15" width="46.712" height="73.886" filterUnits="userSpaceOnUse">
+            <feOffset input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="2.5" result="blur-2" />
+            <feFlood />
+            <feComposite operator="in" in2="blur-2" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g id="right-arrow" transform="translate(15 12)" style="isolation: isolate">
+        <g id="Group_430" data-name="Group 430">
+            <g id="Group_429" data-name="Group 429">
+                <g transform="matrix(1, 0, 0, 1, -15, -12)" filter="url(#Path_9097)">
+                    <path id="Path_9097-2" data-name="Path 9097"
+                        d="M52.117,104.234A52.117,52.117,0,1,0,0,52.117,52.175,52.175,0,0,0,52.117,104.234Zm0-99.7A47.587,47.587,0,1,1,4.53,52.117,47.644,47.644,0,0,1,52.117,4.53Z"
+                        transform="translate(15 12)" fill="#fff" />
+                </g>
+            </g>
+        </g>
+        <g id="Group_432" data-name="Group 432" transform="translate(31.709 22.65)">
+            <g id="Group_431" data-name="Group 431" style="isolation: isolate">
+                <g transform="matrix(1, 0, 0, 1, -46.71, -34.65)" filter="url(#Path_9098)">
+                    <path id="Path_9098-2" data-name="Path 9098"
+                        d="M192.871,137.94l27.18,27.18a2.265,2.265,0,0,0,3.2-3.2l-25.572-25.581,25.576-25.576a2.266,2.266,0,0,0-3.207-3.2l-27.18,27.18A2.267,2.267,0,0,0,192.871,137.94Z"
+                        transform="translate(-145.5 -72.25)" fill="#fff" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
